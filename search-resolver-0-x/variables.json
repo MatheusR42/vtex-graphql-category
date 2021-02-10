@@ -1,0 +1,12 @@
+{
+  "behavior": "Static",
+  "hideUnavailableItems": false,
+  "map": "c",
+  "query": "eletrodomesticos",
+  "selectedFacets": [
+    {
+      "key": "c",
+      "value": "eletrodomesticos"
+    }
+  ]
+}
